@@ -11,7 +11,7 @@ Thank you,
 
 Hello,
 
-This Repo is created to collaborte between Mike and Genet.
+This Repo is created to collaborate between Mike and Genet.
 
 Thank you,
 
